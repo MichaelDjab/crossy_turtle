@@ -10,12 +10,10 @@ Watch out, the cars go faster and faster! :car:
 Enjoy the game! 
 
 <img src="turtle1.png" 
-alt="Markdown Monster icon" 
 style="float: left; 
 margin-right: 15px;" />​
 
 
 <img src="turtle2.png" 
-alt="Markdown Monster icon" 
 style="float: left; 
 margin-right: 15px;" />​
